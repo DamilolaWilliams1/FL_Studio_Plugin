@@ -27,7 +27,7 @@ Audio DSP: Implements digital signal processing techniques for optimal sound per
 
 📂 Project Structure<br>
 
-📦 FL_Studio_VSTplugin_Spring_2024
+📦 FL_Studio_VSTplugin_Spring_2024<br>
  ┣ 📜 FL_Studio_VSTplugin_Spring_2024-equalizerv2  
  ┣ 📜 FL_Studio_VSTplugin_Spring_2024-synthesiser  
  ┣ 📜 FL_Studio_VSTplugin_Spring_2024-timer  
